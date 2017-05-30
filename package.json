@@ -1,5 +1,5 @@
 {
-  "name": "looking",
+  "name": "vista-de-ventas",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
@@ -21,6 +21,7 @@
     "@angular/platform-browser-dynamic": "^4.0.0",
     "@angular/router": "^4.0.0",
     "core-js": "^2.4.1",
+    "ng2-bootstrap": "^1.6.3",
     "rxjs": "^5.1.0",
     "zone.js": "^0.8.4"
   },
